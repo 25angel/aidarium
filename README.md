@@ -35,7 +35,7 @@
 
 | Главный экран | Клиники | Задачи | Новости | Каталог |
 |:---:|:---:|:---:|:---:|:---:|
-| ![](screenshots/main_menu.jpg) | ![](screenshots/clinics.jpg) | ![](screenshots/tasks.jpg) | ![](screenshots/news.jpg) | ![](screenshots/catalog.jpg) |
+| <img src="screenshots/main_menu.jpg" width="200"/> | <img src="screenshots/clinics.jpg" width="200"/> | <img src="screenshots/tasks.jpg" width="200"/> | <img src="screenshots/news.jpg" width="200"/> | <img src="screenshots/catalog.jpg" width="200"/> |
 
 ---
 
@@ -43,7 +43,7 @@
 
 | Тест | Результат |
 |:---:|:---:|
-| ![](screenshots/hair_test.jpg) | ![](screenshots/result_test.jpg) |
+| <img src="screenshots/hair_test.jpg" width="200"/> | <img src="screenshots/result_test.jpg" width="200"/> |
 
 ---
 
@@ -51,7 +51,7 @@
 
 | Фото | Результат |
 |:---:|:---:|
-| ![](screenshots/hair_analyze.jpg) | ![](screenshots/result_hair.jpg) |
+| <img src="screenshots/hair_analyze.jpg" width="200"/> | <img src="screenshots/result_hair.jpg" width="200"/> |
 
 ---
 
@@ -59,7 +59,7 @@
 
 | Анализ | Результат |
 |:---:|:---:|
-| ![](screenshots/analyse_screen.jpg) | ![](screenshots/result_blood.jpg) |
+| <img src="screenshots/analyse_screen.jpg" width="200"/> | <img src="screenshots/result_blood.jpg" width="200"/> |
 
 ---
 
